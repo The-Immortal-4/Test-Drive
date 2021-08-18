@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CustomSkyBox
+  m_Shader: {fileID: -6465566751694194690, guid: ff4e77da2ad7cbf45ab9b84812897aac, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_f35f31f9e67f401f883cc00c3a38b2f8:
+        m_Texture: {fileID: 2800000, guid: 5b303ff28ad9368468a2edd759cf458d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_3d8411740f4f40339805adff089e4444: 0.67
+    - Vector1_8c6a11ecffa34a8788439f0aabbb87c4: 0.59
+    - Vector1_a63597f9dbab4cdb8d772fd03572d000: 0.85
+    m_Colors:
+    - Color_13e4887621464fe2a11efaa4b6f9fcdb: {r: 0, g: 0.5764706, b: 1, a: 0}
+    - Color_6c2282e58cd24364bb61916a419a8067: {r: 0.42352942, g: 0.42352942, b: 0.42352942, a: 0}
+    - Color_cae3d45553f04a25aa0cebaeaae4ba06: {r: 1, g: 1, b: 1, a: 0}
+    - Color_f3fbddecf2e741cdb9930560939263d3: {r: 0.81960785, g: 0.81960785, b: 0.81960785, a: 1}
+    - HorizonColor: {r: 0.81960785, g: 0.81960785, b: 0.81960785, a: 1}
+    - NadirColor: {r: 0.42352942, g: 0.42352942, b: 0.42352942, a: 1}
+    - Vector2_75882d3f37684adf9cc23a76876d5406: {r: 0.2, g: 0.1, b: 0.1, a: 0}
+    - Vector2_933c6ea9e6d94e118ba389b212a90045: {r: -0.02, g: 0.02, b: 0, a: 0}
+    - Vector3_4f833c1a424a467d9bbb8f0ec84fedc7: {r: 1, g: 1, b: 1, a: 0}
+    - ZenithColor: {r: 0, g: 0.5764706, b: 1, a: 1}
+  m_BuildTextureStacks: []

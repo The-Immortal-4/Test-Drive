@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WaterPool
+  m_Shader: {fileID: -6465566751694194690, guid: eb3c50d8d05234e4b9239256b24ad224, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_2b97ce31cf0c4a98820957c300bfab2c: 20.07
+    - Vector1_2c42a0d0ac764af3bc4281fb6b6946bf: 1
+    - Vector1_3dfd25af4b844c66a69115a45f9b7bce: 10.9
+    - Vector1_8982a5d03a0b4f49a8ceae9d31367467: 0.02
+    - Vector1_9731b05cc0d44ac6b2e2c8ca3b36ce9d: 1
+    - Vector1_a931260fc3a34b6bbf0a8f9a7f562d55: 2.4
+    - Vector1_b4e1f8e3ffd444d487454547c76939aa: 4.23
+    - Vector1_e668ed551541410f915190535e5fb9c2: 0.01
+    - Vector1_f42d4651eb3944d6b4b1e9e2194bc2e8: 9.63
+    m_Colors:
+    - Color_08783b1a2ec1483bbe46c2fce7d01078: {r: 1, g: 1, b: 1, a: 0}
+    - Color_adf2cf613b9b41259d7b010151c68cb3: {r: 0.1273585, g: 0.8487094, b: 1, a: 0}
+    - Color_f13982deba9843908d387430cf03a1b3: {r: 1.2252784, g: 3.4415908, b: 3.2253652, a: 0}
+    - Vector2_09030842b5cc425da8f2787b877ef975: {r: 0.1, g: -0.1, b: 0, a: 0}
+  m_BuildTextureStacks: []
